@@ -1,0 +1,2 @@
+# Calcy
+Calculator using Python.
